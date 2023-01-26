@@ -1,15 +1,6 @@
-Welcome to your new dbt project!
+# Completed dbt Fundamentals Course
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
+Batch details: https://www.credential.net/bbae3fea-9a21-4a15-8ba9-329cf72b44f6
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+This badge is issued to any dbt developer who has completed the online dbt Fundamentals v2 course and passed the end of course quiz. This demonstrates fundamental understanding of models, sources, tests, docs, and deployment in dbt.
